@@ -6,7 +6,7 @@ body {
     align-items: center;
     height: 100vh;
     margin: 0;
-    background-color: #fdfab5;
+    background-color: #f1e6da;
     font-family: 'Nunito', sans-serif;
 }
 
@@ -16,7 +16,7 @@ body {
 
 .header_text {
     font-size: 3em;
-    color: #4a0d0b;
+    color: #3d6781;
 }
 
 .gif_container img {
